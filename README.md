@@ -7,6 +7,8 @@ Suggestions (issue/pull requests) are welcome, but I will only add them if they 
 
 If punctuation is added or removed, the history of this repo should provide some idea of when it was done, or at least when I became aware of it.
 
+This project is not affiliated with Google in any way.
+
 # .
 period, full stop (UK?)
 
