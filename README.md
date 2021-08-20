@@ -10,7 +10,7 @@ If punctuation is added or removed, the history of this repo should provide some
 This project is not affiliated with Google in any way.
 
 # .
-period, full stop (UK?)
+period, full stop, dot, point (when followed by a number)
 
 # ,
 comma
@@ -21,8 +21,8 @@ question mark
 # !
 exclamation mark, exclamation point
 
-# ...
-ellipsis, period period period (this will capitalize the next word)
+# ... (this will capitalize the next word, which I consider erroneous)
+period period period, full stop full stop full stop, dot dot dot
 
 # :
 colon
@@ -108,5 +108,8 @@ frowny face
 # most emojis
 [whatever] emoji
 
-# any whitespace, such as spaces, tabs, or new lines
+# newline
+newline, enter 
+
+# any other whitespace, such as spaces or tabs
 Unfortunately I've found no way to speak this in. Words are delineated by spaces automatically though.
